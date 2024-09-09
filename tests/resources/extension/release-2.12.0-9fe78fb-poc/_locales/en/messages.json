@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Trust Wallet"
+  },
+  "appDesc": {
+    "message": "Secure crypto wallet to access your digital assets across multiple networks."
+  },
+  "appStoreLongDesc": {
+    "message": "The most trusted & secure crypto wallet for Ethereum, BNB Smart Chain, and custom EVM chains is now available in your browser! This beta version is the first step to continue our journey to make web3 more accessible to millions of people. We will be adding more exciting features and expand to more networks in the next iterations.\n\nWith the Trust Wallet browser extension you can send, receive and store many cryptocurrencies safely and securely. Manage your tokens across networks in one view, automatically switch to the right network, and interact with Dapps with ease.\n\nYou can easily create a new wallet, or import any existing wallet in seconds, such as Trust Wallet, Metamask, Coinbase Wallet or Safepal to name just a few. Get started today."
+  }
+}

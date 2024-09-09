@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrowser_extension_wallet=self.webpackChunkbrowser_extension_wallet||[]).push([[586],{69586:(l,t,n)=>{n.r(t),n.d(t,{default:()=>E});var e=n(85893),s=n(67294),_=n(23897),o=n(39881);const E=()=>{const[r,C]=(0,s.useState)(o.Af.CREATE_VERIFY_PASSWORD),a=_.globalSteps[r];return(0,e.jsx)(a,{setCurrentStep:C})}}}]);
